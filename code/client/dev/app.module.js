@@ -12,8 +12,6 @@ var core_1 = require("@angular/core");
 var http_1 = require("@angular/http");
 var forms_1 = require("@angular/forms");
 var platform_browser_1 = require("@angular/platform-browser");
-var todo_cmp_1 = require("./todo/components/todo-cmp");
-var todo_service_1 = require("./todo/services/todo-service");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -24,15 +22,9 @@ var AppModule = (function () {
                 forms_1.FormsModule,
                 http_1.HttpModule,
             ],
-            declarations: [
-                todo_cmp_1.TodoCmp,
-            ],
-            providers: [
-                todo_service_1.TodoService,
-            ],
-            bootstrap: [
-                todo_cmp_1.TodoCmp,
-            ],
+            declarations: [],
+            providers: [],
+            bootstrap: [],
         }), 
         __metadata('design:paramtypes', [])
     ], AppModule);
