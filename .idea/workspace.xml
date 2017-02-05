@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="730612d4-0f4b-47a8-bf56-0e2e83b85789" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/landmark-explorer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/.yo-rc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/app.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/app.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/todo/components/todo-cmp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/todo/components/todo-cmp.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/todo/components/todo-cmp.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/todo/services/todo-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/todo/services/todo-service.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/todo/services/todo-service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/todo/styles/todo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/client/dev/todo/templates/todo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/gulpfile.babel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/karma-test-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/newrelic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/procfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/controller/todo-controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/controller/todo-controller.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/controller/todo-controller.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/dao/todo-dao.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/dao/todo-dao.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/dao/todo-dao.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/model/todo-model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/model/todo-model.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/model/todo-model.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/routes/todo-routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/routes/todo-routes.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/api/todo/routes/todo-routes.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/auth/local/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/auth/local/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/auth/local/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/commons/static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/commons/static/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/commons/static/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/config/db.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/config/db.conf.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/config/db.conf.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/config/routes.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/config/routes.conf.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/config/routes.conf.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/constants/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/routes/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/routes/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/server.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/server/server.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/build_css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/build_html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/build_image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/build_js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/build_ts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/const.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/del.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/client/watch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/server/build_tsc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/server/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tasks/server/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/client/todo/components/todo-cmp_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/client/todo/components/todo-cmp_test.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/client/todo/components/todo-cmp_test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/client/todo/services/todo-service_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/client/todo/services/todo-service_test.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/client/todo/services/todo-service_test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/e2e/todo.e2e._test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/server/_helpers/db.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/server/_helpers/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tests/server/todo/daos/todo-dao_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/typings.json" />
+    </list>
+    <ignored path="landmark-explorer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="landmark-explorer" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="40" />
+    <option name="width" value="981" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="landmark-explorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="landmark-explorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="landmark-explorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="730612d4-0f4b-47a8-bf56-0e2e83b85789" name="Default" comment="" />
+      <created>1486260235239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486260235239</updated>
+      <workItem from="1486260236368" duration="451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="451000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="40" width="981" height="1047" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

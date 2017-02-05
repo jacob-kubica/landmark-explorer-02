@@ -1,0 +1,12 @@
+{
+  "generator-ng-fullstack": {
+    "username": "goldsugarwithice",
+    "appName": "v-001",
+    "stack": "fullstack",
+    "server": "node",
+    "client": "ng2",
+    "transpilerServer": "typescript",
+    "secure": false,
+    "differentStaticServer": false
+  }
+}
