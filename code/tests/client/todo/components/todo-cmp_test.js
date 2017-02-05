@@ -12,7 +12,7 @@ var todo_service_1 = require("../../../../client/dev/todo/services/todo-service"
 var MockTodoService = (function (_super) {
     __extends(MockTodoService, _super);
     function MockTodoService() {
-        return _super !== null && _super.apply(this, arguments) || this;
+        _super.apply(this, arguments);
     }
     MockTodoService.prototype.getAll = function () {
         return new Observable_1.Observable(function (o) {
@@ -62,3 +62,4 @@ describe("todo_component", function () {
         }));
     });
 });
+//# sourceMappingURL=todo-cmp_test.js.map

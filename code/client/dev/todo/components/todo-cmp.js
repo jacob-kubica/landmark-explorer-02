@@ -50,14 +50,15 @@ var TodoCmp = (function () {
             });
         });
     };
+    TodoCmp = __decorate([
+        core_1.Component({
+            selector: "todo-cmp",
+            templateUrl: "todo/templates/todo.html",
+            styleUrls: ["todo/styles/todo.css"]
+        }), 
+        __metadata('design:paramtypes', [todo_service_1.TodoService])
+    ], TodoCmp);
     return TodoCmp;
 }());
-TodoCmp = __decorate([
-    core_1.Component({
-        selector: "todo-cmp",
-        templateUrl: "todo/templates/todo.html",
-        styleUrls: ["todo/styles/todo.css"]
-    }),
-    __metadata("design:paramtypes", [todo_service_1.TodoService])
-], TodoCmp);
 exports.TodoCmp = TodoCmp;
+//# sourceMappingURL=todo-cmp.js.map
